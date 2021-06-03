@@ -1,0 +1,2 @@
+# arduinosensor-en
+Practice: Measuring the pollutants that harm your body From simple temperature and humidity to fine dust, ultraviolet rays, formaldehyde, and radiation, we will cover 18 sensors that can measure air pollutants and atmospheric conditions that affect the human body. We will explore the specifications, features, and operating principles of each sensor and connect them with Arduino to accurately measure the value.
