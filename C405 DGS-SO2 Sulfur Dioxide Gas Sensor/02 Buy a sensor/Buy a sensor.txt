@@ -1,0 +1,12 @@
+References for sensor used in the book [Arduino Sensors for Everyone] are as follows.
+
+[URL]
+https://smartstore.naver.com/allsensing/products/2734412415
+
+[Spec Sensor]
+https://www.spec-sensors.com/product-category/gases/sulfur-dioxide-so2-sensors/
+
+
+
+
+
