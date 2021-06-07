@@ -1,0 +1,6 @@
+References for sensor used in the book [Arduino Sensors for Everyone] are as follows.
+
+[URL]
+https://search.shopping.naver.com/search/all?query=MQ131&frm=NVSHATC&prevQuery=MQ131
+https://search.shopping.naver.com/search/all?query=gdk101&frm=NVSHATC&prevQuery=ccs811
+
