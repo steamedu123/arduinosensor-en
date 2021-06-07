@@ -1,0 +1,6 @@
+References for sensor used in the book [Arduino Sensors for Everyone] are as follows.
+
+[URL]
+https://aliexpi.com/jRiT
+
+https://www.amazon.com/s?k=ZE08-CH2O&ref=nb_sb_noss_1
