@@ -1,0 +1,7 @@
+References for sensor used in the book [Arduino Sensors for Everyone] are as follows.
+
+[URL]
+https://aliexpi.com/6Xg5
+
+https://www.amazon.com/s?k=nova+sds011&ref=nb_sb_noss_2
+
