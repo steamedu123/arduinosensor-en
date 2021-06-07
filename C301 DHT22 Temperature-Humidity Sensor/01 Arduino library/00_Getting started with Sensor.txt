@@ -1,0 +1,27 @@
+------------------------------------------------------ 
+Development environment: WINDOWS 10 
+Arduino IDE: 1.8.13 
+------------------------------------------------------ 
+
+01 library copy 
+  You can easily check the operation by using the library.   
+
+   The libraries \Steamedu123_Sensor-master folder is copied to the folder below. 
+   * This folder is created automatically after installing Arduino C:\Users\s\Documents\Arduino\libraries
+
+02 *. ino file execution 
+   -Connect Arduino and PC 
+   -Run Arduino IDE 
+   -Menu → Tools → Board: Check Arduino UNO 
+   -Menu → Sketch → Check/Compile 
+
+03 Check compilation
+   Select Sketch>OK/Compile (CTRL+R) to compile.
+
+04 Arduino Uno upload
+   When the compilation is completed without any problems, select Sketch>Upload (CTRL+U) to upload the compiled file.
+
+05 Operation check
+   You can check the operation.
+
+------------------------------------------------------

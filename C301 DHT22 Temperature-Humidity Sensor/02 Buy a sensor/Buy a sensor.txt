@@ -1,0 +1,6 @@
+References for sensor used in the book [Arduino Sensors for Everyone] are as follows.
+
+[URL]
+https://aliexpi.com/OC45
+
+https://www.amazon.com/s?k=dht22&ref=nb_sb_noss_1
