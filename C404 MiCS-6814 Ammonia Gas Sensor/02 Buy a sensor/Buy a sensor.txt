@@ -1,0 +1,5 @@
+References for sensor used in the book [Arduino Sensors for Everyone] are as follows.
+
+[URL]
+http://bit.ly/3rz0IWV
+https://aliexpi.com/msO4
