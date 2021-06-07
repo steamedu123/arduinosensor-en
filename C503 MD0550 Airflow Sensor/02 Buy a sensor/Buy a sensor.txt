@@ -1,0 +1,14 @@
+References for sensor used in the book [Arduino Sensors for Everyone] are as follows.
+
+[URL]
+https://bit.ly/3b3hUyf
+
+[Modern Device]
+https://moderndevice.com/product/wind-sensor/
+
+
+
+
+
+
+
