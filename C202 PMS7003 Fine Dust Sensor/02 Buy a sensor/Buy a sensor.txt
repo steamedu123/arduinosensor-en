@@ -1,0 +1,6 @@
+References for sensor used in the book [Arduino Sensors for Everyone] are as follows.
+
+[URL]
+https://aliexpi.com/jZgH
+
+https://www.amazon.com/s?k=pms7003&ref=nb_sb_noss_2
