@@ -1,0 +1,6 @@
+References for sensor used in the book [Arduino Sensors for Everyone] are as follows.
+
+[URL]
+https://aliexpi.com/Ktv2
+
+https://www.amazon.com/MICS%E4%B8%804514-Monoxide-Nitrogen-Quality-Testing/dp/B07MZR8KVZ/ref=sr_1_1?dchild=1&keywords=mics-4514&qid=1609907141&sr=8-1
