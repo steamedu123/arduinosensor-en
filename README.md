@@ -1,8 +1,13 @@
  <img src="https://github.com/steamedu123/arduinosensor-en/blob/main/Image_Arduino%20Sensors%20for%20Everyone/Arduino-Sensors-for-Everyone-51.jpg">  
 
+ <br><br>  
+Google Play book 
+https://play.google.com/store/books/details/Ronnie_Kim_Arduino_Sensors_for_Everyone?id=e3ovEAAAQBAJ
+ 
+ <br><br>  
 
  # [Arduino Sensors for Everyone]
-  In this book, you will learn how to use the PMS7003, GP2Y1010AU0F, PPD42NS, SDS011 Fine Dust Sensor, DHT22 temperature/humidity sensor, MH-Z19B carbon dioxide sensor, ZE08-CH2O formaldehyde sensor, CCS811 total volatile organic compound (TVOC) sensor , GDK101 radiation (gamma ray) sensor, MQ-131 ozone (O3) sensor, MQ-7 carbon monoxide sensor, MICS-4514 nitrogen dioxide sensor, MICS-6814 ammonia sensor, DGS-SO2 sulfur dioxide (SO2) sensor, BME280 atmospheric pressure sensor, GUVA-S12SD ultraviolet (UV) sensor, MD0550 airflow sensor, and QS-FS01 wind speed sensor.
+  In this e-book, you will learn how to use the PMS7003, GP2Y1010AU0F, PPD42NS, SDS011 Fine Dust Sensor, DHT22 temperature/humidity sensor, MH-Z19B carbon dioxide sensor, ZE08-CH2O formaldehyde sensor, CCS811 total volatile organic compound (TVOC) sensor , GDK101 radiation (gamma ray) sensor, MQ-131 ozone (O3) sensor, MQ-7 carbon monoxide sensor, MICS-4514 nitrogen dioxide sensor, MICS-6814 ammonia sensor, DGS-SO2 sulfur dioxide (SO2) sensor, BME280 atmospheric pressure sensor, GUVA-S12SD ultraviolet (UV) sensor, MD0550 airflow sensor, and QS-FS01 wind speed sensor.
   ___   
  <br><br>  
  
