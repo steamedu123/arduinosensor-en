@@ -1,4 +1,4 @@
- <img src="https://github.com/steamedu123/arduinosensor-en/blob/main/Image_Arduino%20Sensors%20for%20Everyone/Arduino-Sensors-for-Everyone-0.jpg">  
+ <img src="https://github.com/steamedu123/arduinosensor-en/blob/main/Image_Arduino%20Sensors%20for%20Everyone/Arduino-Sensors-for-Everyone-51.jpg">  
 
 
  # [Arduino Sensors for Everyone]
